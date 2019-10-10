@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca1b5c0b-538d-4556-a1b0-8a44f9ab5938" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/nuxt/src/.contentful.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/components/BoxItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/components/Latest.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/components/LineItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/components/List.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/components/Rec.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/components/Tags.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/components/__MACOSX/._BoxItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/components/__MACOSX/._Latest.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/components/__MACOSX/._LineItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/components/__MACOSX/._List.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/components/__MACOSX/._Rec.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/components/__MACOSX/._Tags.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/layouts/blog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/pages/new/new.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/pages/posts.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/pages/posts/_getby/_query.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/pages/posts/_slug.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/pages/table.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/pages/user/_id.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/pages/user/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/plugins/contentful.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuxt/src/plugins/vue2-filters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuxt/src/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt/src/nuxt.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuxt/src/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt/src/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuxt/src/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt/src/pages/index.vue" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nuxt/src" />
+  </component>
+  <component name="ProjectId" id="1RjAA0izax1kk7oG7EsjwRzjOit" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\vue_test\pg\nuxt\src\pages" />
+      <recent name="C:\workspace\vue_test\pg\nuxt\src\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.vue" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/pg/nuxt/src/pages/index.vue" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca1b5c0b-538d-4556-a1b0-8a44f9ab5938" name="Default Changelist" comment="" />
+      <created>1570169983610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570169983610</updated>
+      <workItem from="1570169984926" duration="10131000" />
+      <workItem from="1570412683940" duration="1102000" />
+      <workItem from="1570436469761" duration="2217000" />
+      <workItem from="1570686766752" duration="1946000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
